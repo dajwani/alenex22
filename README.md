@@ -1,1 +1,1 @@
-This is the code to accompany our paper "Learning to prune instances of k-median and related problems" in ALENEX'22.
+This is the code to accompany our paper "Learning to prune instances of k-median and related problems" published in ALENEX'22 and it's journal extension "Learning to Prune Instances of Combinatorial Optimization Problems" (under review)
