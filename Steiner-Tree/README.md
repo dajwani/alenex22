@@ -56,8 +56,8 @@ For src folder:
 
 main.py is the pipeline script to re-run the code and get our result.
 
-Dependencies:
-        pip install gurobipy, networkx
-        You need a valid Gurobi license to run this code
+Important Dependencies:
+        Need to pip install gurobipy, networkx
+        Need a valid Gurobi license to run this code
 
 
